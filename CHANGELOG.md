@@ -1,4 +1,4 @@
-# Changelog
+Iko# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
@@ -1182,3 +1182,4 @@ All notable changes to this project will be documented in this file. See [standa
 - Add Java mode contributed by Tom Tasche
 - Fix annotation bug
 - Changing a document added a new empty line at the end
+this.destroy
